@@ -9,7 +9,7 @@ import java.util.Date;
 public class App 
 {
 	
-	final static String BRANCH="MASTER";
+	final static String BRANCH="STAGING";
 	
 	
 	
